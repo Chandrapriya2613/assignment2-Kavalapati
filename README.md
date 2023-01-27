@@ -13,7 +13,7 @@ It improves **physical endurance** and bolsters your **mental toughness**
 
 * The Bad Mittons
 * Flaming Mashmellows
-* We are Warriors
+* We are Warriors <br>
 [Redirecting AboutMe](https://github.com/Chandrapriya2613/assignment2-Kavalapati/blob/main/AboutMe.md)    
 
 ---
@@ -26,3 +26,11 @@ Countries that i love to visit in vaccation includes Switzerland,Australia,vietn
 |  Australia  | Its the perfect Roadtrip Destination and has incredible cities . | 7 |
 |  vietnam    | The best dramatic landscapes,fascinating history,epic food. | 5 |
 |  Canada     | The Famous landmarks,Historical wonders outdoor exploration. | 10 |
+
+---
+## Funny Quotes
+
+> Accept who you are Unless you are a serial killer.- *Ellen Degeners*
+
+
+> Gravitation is not responsible for people falling in love.- *Albert Einstein*
