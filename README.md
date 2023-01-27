@@ -34,3 +34,23 @@ Countries that i love to visit in vaccation includes Switzerland,Australia,vietn
 
 
 > Gravitation is not responsible for people falling in love.- *Albert Einstein*
+
+---
+## Wordpress Stack Overflow
+> [WordPress Widget to display a Stack Overflow profile](https://stackapps.com/questions/3492/wordpress-widget-to-display-a-stack-overflow-profile)
+
+
+
+```
+function get_the_content_by_id($post_id) {
+  $page_data = get_page($post_id);
+  if ($page_data) {
+    return $page_data->post_content;
+  }
+  else return false;
+}
+
+```
+[Wordpress_code](https://css-tricks.com/snippets/wordpress/get-content-by-id/)
+
+
